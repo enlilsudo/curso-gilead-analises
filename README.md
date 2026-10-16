@@ -1,4 +1,4 @@
-# Curso Gilead — Análises (Identidade Azul Celeste)
+# Curso Gilead — Análises 
 
 Site estático pronto para GitHub Pages, sem dependências externas. Identidade visual com azul celeste como base e uma cor própria para cada serviço: violeta para Astrologia Qabbalística, verde para Guematria, coral para Enneagrama e azul para o Calendário Luni-Solar.
 
